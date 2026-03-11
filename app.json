@@ -42,6 +42,15 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "owner": "robert_castagna",
+    "extra": {
+      "router": {
+        "origin": "https://rork.com/"
+      },
+      "eas": {
+        "projectId": "20781d1d-5751-49ea-b54b-dc1fe9a01eab"
+      }
     }
   }
 }
